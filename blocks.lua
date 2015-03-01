@@ -35,6 +35,21 @@ minetest.register_node("cutepie:cute_blocks", {
 
 })
 
+-- cute rainbow
+
+minetest.register_node("cutepie:cute_rainbow", {
+	description = "Cutepie Rainbow",
+	light_source = 11,
+	drawtype = "normal",
+	tiles = {
+		{name="cute_rainbow.png", animation={type="vertical_frames",
+		aspect_w=16, aspect_h=16, length=0.8}},
+		},
+	paramtype = "light",
+	groups = {cracky = 2},
+
+})
+
 --Cute Cane
 
 minetest.register_node("cutepie:cute_cane", {
