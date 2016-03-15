@@ -1,4 +1,4 @@
-cutepie-frown
+cutepie
 =============
 
 cutepie mod with frown for Minetest
