@@ -1,4 +1,8 @@
 cutepie
 =============
 
-cutepie mod with frown for Minetest
+A minetest mod that adds cute blocks. 
+
+Licence = DWYWPL
+
+
