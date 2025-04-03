@@ -1,8 +1,9 @@
 cutepie
 =============
 
-A minetest mod that adds cute blocks. 
+A luanti mod that adds cute blocks. 
 
-Licence = DWYWPL
+Code Licence = MIT
+Media Licence - CC0
 
 
